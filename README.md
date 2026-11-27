@@ -21,7 +21,6 @@ cd django_task2
 ```bash
 pip install -r requirements.txt
 ```
-*(Если вы используете Poetry, можно выполнить команду `poetry install`)*
 
 ### Переменные окружения
 
